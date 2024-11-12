@@ -61,5 +61,6 @@ The database follows normalization up to 3NF:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone (https://github.com/Sreenivasulareddy3708/Pharmacy-management.git)
+   cd Pharmacy-management
+
